@@ -1,6 +1,0 @@
-
-baseURL = "https://neooxdev.github.io/"
-languageCode = "en-us"
-title = "Neo's Blog"
-theme = "PaperMod"
-enableRobotsTXT = true
