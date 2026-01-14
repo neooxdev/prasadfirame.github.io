@@ -14,28 +14,36 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # 1. Checkout repo with submodules (needed for PaperMod theme)
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           submodules: recursive
           fetch-depth: 0
 
+      # 2. Setup Hugo Extended
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
           extended: true
 
+      # 3. Build the site
       - name: Build site
         run: |
           hugo --minify
+          # Ensure GitHub Pages does not ignore files starting with _
           touch public/.nojekyll
-      
+
+      # 4. List files for debugging (optional)
+      - name: List public folder
+        run: ls -R public
+
+      # 5. Upload built site as artifact
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
-
 
   deploy:
     needs: build
@@ -44,6 +52,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      # 6. Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
