@@ -27,15 +27,15 @@ jobs:
           extended: true
 
       - name: Build site
-        run: hugo --minify
-
-      - name: List public folder
-        run: ls -R public
-
+        run: |
+          hugo --minify
+          touch public/.nojekyll
+      
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
+
 
   deploy:
     needs: build
