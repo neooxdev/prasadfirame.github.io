@@ -20,16 +20,13 @@ theme = "PaperMod"
   ShowWordCount = true
   
   # Hacker aesthetic
-  [params.homeInfoParams]
-    Title = "$ whoami"
-    Content = """
-    > Developer. Builder. Problem Solver.
-    
-    Breaking things to understand how they work, then building them better.
-    Documenting the journey from idea to execution.
-    
-    **[root@neoox ~]#** _
-    """
+ [params.homeInfoParams]
+  Title = "Neoox // Dev"
+  Content = """
+  > Learning from first principles.
+
+  """
+
 
 # Navigation with hacker vibes
 [[menu.main]]
