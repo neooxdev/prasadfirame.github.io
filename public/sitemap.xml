@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://neooxdev.github.io/categories/</loc></url><url><loc>https://neooxdev.github.io/</loc></url><url><loc>https://neooxdev.github.io/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://neooxdev.github.io/</loc>
+    <lastmod>2026-01-14T12:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://neooxdev.github.io/categories/</loc>
+    <lastmod>2026-01-14T12:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://neooxdev.github.io/categories/dev/</loc>
+    <lastmod>2026-01-14T12:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://neooxdev.github.io/tags/learning/</loc>
+    <lastmod>2026-01-14T12:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://neooxdev.github.io/posts/getting-started/</loc>
+    <lastmod>2026-01-14T12:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://neooxdev.github.io/tags/open-source/</loc>
+    <lastmod>2026-01-14T12:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://neooxdev.github.io/posts/</loc>
+    <lastmod>2026-01-14T12:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://neooxdev.github.io/tags/reverse-engineering/</loc>
+    <lastmod>2026-01-14T12:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://neooxdev.github.io/tags/</loc>
+    <lastmod>2026-01-14T12:00:00+05:30</lastmod>
+  </url>
+</urlset>
