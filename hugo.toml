@@ -25,28 +25,26 @@ theme = "PaperMod"
   """
 
 
-# Navigation with hacker vibes
 [[menu.main]]
-  name = "~/posts"
+  name = "Posts"
   url = "/posts/"
   weight = 10
 
 [[menu.main]]
-  name = "~/tags"
+  name = "Tags"
   url = "/tags/"
   weight = 20
 
-
+[[menu.main]]
+  name = "Experience"
+  url = "/experience/"
+  weight = 25
 
 [[menu.main]]
-  name = "~/about"
+  name = "About"
   url = "/about/"
   weight = 30
 
-[[menu.main]]
-  name = "~/experience"
-  url = "/experience/"
-  weight = 25
 
 # Social links
 [[params.socialIcons]]
