@@ -6,7 +6,12 @@ description = 'A first-principles guide to integrating PLCs, MQTT, and Python fo
 tags = ['plc', 'mqtt', 'python', 'industrial automation', 'iot']
 +++
 
-![Industrial Automation Architecture](https://images.unsplash.com/photo-1581091870627-3f89b4c5c9e5?q=80&w=1200&auto=format&fit=crop)
+
+[cover]
+image = "https://images.unsplash.com/photo-1581092921461-eab62e97a780?auto=format&fit=crop&w=1600&q=80"
+alt = "Industrial automation factory control systems"
+caption = "Modern industrial automation systems"
+relative = false
 
 ---
 
