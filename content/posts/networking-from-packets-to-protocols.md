@@ -4,15 +4,14 @@ draft = false
 title = 'Networking: From Packets to Protocols'
 description = 'A first-principles guide to understanding computer networking from physical transmission to application protocols.'
 tags = ['networking', 'tcp/ip', 'protocols', 'systems', 'internet']
-+++
-
 
 [cover]
 image = "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=1200&auto=format&fit=crop"
 alt = "Global network infrastructure"
 caption = "Networking from first principles"
 relative = false
----
++++
+
 
 ## Introduction
 
