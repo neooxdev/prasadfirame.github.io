@@ -6,8 +6,12 @@ description = 'A first-principles guide to understanding computer networking fro
 tags = ['networking', 'tcp/ip', 'protocols', 'systems', 'internet']
 +++
 
-![Global Network Infrastructure](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=1200&auto=format&fit=crop)
 
+[cover]
+image = "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=1200&auto=format&fit=crop"
+alt = "Global network infrastructure"
+caption = "Networking from first principles"
+relative = false
 ---
 
 ## Introduction
