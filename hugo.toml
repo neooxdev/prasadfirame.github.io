@@ -23,7 +23,11 @@ theme = "PaperMod"
  [params.homeInfoParams]
   Content = """
   """
-
+  
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 5
 
 [[menu.main]]
   name = "Posts"

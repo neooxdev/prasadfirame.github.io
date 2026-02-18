@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on </title>
-    <link>https://prasad-firame.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- 0.153.3</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Feb 2026 12:49:15 +0530</lastBuildDate>
-    <atom:link href="https://prasad-firame.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Industrial Automation</title>
-      <link>https://prasad-firame.github.io/tags/industrial-automation/</link>
+      <link>http://localhost:1313/tags/industrial-automation/</link>
       <pubDate>Wed, 18 Feb 2026 12:49:15 +0530</pubDate>
-      <guid>https://prasad-firame.github.io/tags/industrial-automation/</guid>
+      <guid>http://localhost:1313/tags/industrial-automation/</guid>
       <description></description>
     </item>
     <item>
       <title>Iot</title>
-      <link>https://prasad-firame.github.io/tags/iot/</link>
+      <link>http://localhost:1313/tags/iot/</link>
       <pubDate>Wed, 18 Feb 2026 12:49:15 +0530</pubDate>
-      <guid>https://prasad-firame.github.io/tags/iot/</guid>
+      <guid>http://localhost:1313/tags/iot/</guid>
       <description></description>
     </item>
     <item>
       <title>Mqtt</title>
-      <link>https://prasad-firame.github.io/tags/mqtt/</link>
+      <link>http://localhost:1313/tags/mqtt/</link>
       <pubDate>Wed, 18 Feb 2026 12:49:15 +0530</pubDate>
-      <guid>https://prasad-firame.github.io/tags/mqtt/</guid>
+      <guid>http://localhost:1313/tags/mqtt/</guid>
       <description></description>
     </item>
     <item>
       <title>Plc</title>
-      <link>https://prasad-firame.github.io/tags/plc/</link>
+      <link>http://localhost:1313/tags/plc/</link>
       <pubDate>Wed, 18 Feb 2026 12:49:15 +0530</pubDate>
-      <guid>https://prasad-firame.github.io/tags/plc/</guid>
+      <guid>http://localhost:1313/tags/plc/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://prasad-firame.github.io/tags/python/</link>
+      <link>http://localhost:1313/tags/python/</link>
       <pubDate>Wed, 18 Feb 2026 12:49:15 +0530</pubDate>
-      <guid>https://prasad-firame.github.io/tags/python/</guid>
+      <guid>http://localhost:1313/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Internet</title>
-      <link>https://prasad-firame.github.io/tags/internet/</link>
+      <link>http://localhost:1313/tags/internet/</link>
       <pubDate>Wed, 18 Feb 2026 12:12:53 +0530</pubDate>
-      <guid>https://prasad-firame.github.io/tags/internet/</guid>
+      <guid>http://localhost:1313/tags/internet/</guid>
       <description></description>
     </item>
     <item>
       <title>Networking</title>
-      <link>https://prasad-firame.github.io/tags/networking/</link>
+      <link>http://localhost:1313/tags/networking/</link>
       <pubDate>Wed, 18 Feb 2026 12:12:53 +0530</pubDate>
-      <guid>https://prasad-firame.github.io/tags/networking/</guid>
+      <guid>http://localhost:1313/tags/networking/</guid>
       <description></description>
     </item>
     <item>
       <title>Protocols</title>
-      <link>https://prasad-firame.github.io/tags/protocols/</link>
+      <link>http://localhost:1313/tags/protocols/</link>
       <pubDate>Wed, 18 Feb 2026 12:12:53 +0530</pubDate>
-      <guid>https://prasad-firame.github.io/tags/protocols/</guid>
+      <guid>http://localhost:1313/tags/protocols/</guid>
       <description></description>
     </item>
     <item>
       <title>Systems</title>
-      <link>https://prasad-firame.github.io/tags/systems/</link>
+      <link>http://localhost:1313/tags/systems/</link>
       <pubDate>Wed, 18 Feb 2026 12:12:53 +0530</pubDate>
-      <guid>https://prasad-firame.github.io/tags/systems/</guid>
+      <guid>http://localhost:1313/tags/systems/</guid>
       <description></description>
     </item>
     <item>
       <title>Tcp/Ip</title>
-      <link>https://prasad-firame.github.io/tags/tcp/ip/</link>
+      <link>http://localhost:1313/tags/tcp/ip/</link>
       <pubDate>Wed, 18 Feb 2026 12:12:53 +0530</pubDate>
-      <guid>https://prasad-firame.github.io/tags/tcp/ip/</guid>
+      <guid>http://localhost:1313/tags/tcp/ip/</guid>
       <description></description>
     </item>
   </channel>

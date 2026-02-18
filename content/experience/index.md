@@ -118,7 +118,9 @@ draft: false
         <img src="/images/coreco-logo.png" alt="CoreCo Logo">
         Associate Software Engineer (2024–Present)
       </h3>
-      <p>Contributed to production-ready services, automation, and cloud infrastructure projects.</p>
+      <p>Worked on <a href="https://bettrlabs.com/" target="_blank">BettrLabs</a>, an AI-powered B2B SaaS platform. Built the MVP from scratch, delivered POCs, and improved system performance</p>
+      <p>Built APIs, ETL pipelines, and multi-tenant AI systems including <a href="https://instinctiq.com/" target="_blank">Nexus</a>. Delivered multiple POCs improving scalability and automation.</p>
+      <p>Created RAG chatbots, voice agents, and AWS Lambda reporting engines, generating measurable impact.</p>
     </div>
   </div>
 
@@ -126,9 +128,11 @@ draft: false
     <div class="timeline-content">
       <h3>
         <img src="/images/coreco-logo.png" alt="CoreCo Logo">
-        Software Engineer Intern (2024)
+        Software Engineer Intern (2024 - Nov 2024)
       </h3>
-      <p>Worked on scalable backend services, optimized APIs, and gained production experience in distributed systems.</p>
+      <p>Worked on a scalable parking automation system using React, Node.js, and MySQL.</p>
+      <p>Developed REST APIs, dashboards, and RAG chatbots for POCs, improving performance and user experience.</p>
+      <p>Learned full-stack best practices, multi-tenancy, security performed well got selected for full time role.</p>
     </div>
   </div>
 
@@ -136,7 +140,7 @@ draft: false
     <div class="timeline-content">
       <h3>
         <img src="/images/buildspace-logo.png" alt="Buildspace Logo">
-        Exploration & Learning (2025–2026)
+        Exploration & Learning (2023)
       </h3>
       <p>
       Explored various technologies via <strong>Buildspace</strong>, joined communities, and absorbed knowledge. Learned communication, scaling ideas, and building concepts while dreaming big.

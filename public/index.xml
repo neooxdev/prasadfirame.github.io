@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Prasad&#39;s Space on </title>
-    <link>https://prasad-firame.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Prasad&#39;s Space on </description>
     <generator>Hugo -- 0.153.3</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Feb 2026 13:15:00 +0530</lastBuildDate>
-    <atom:link href="https://prasad-firame.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Distributed Transactions 101: Understanding Two-Phase Commit</title>
-      <link>https://prasad-firame.github.io/posts/distributed-transactions-101-two-phase-commit/</link>
+      <link>http://localhost:1313/posts/distributed-transactions-101-two-phase-commit/</link>
       <pubDate>Wed, 18 Feb 2026 13:15:00 +0530</pubDate>
-      <guid>https://prasad-firame.github.io/posts/distributed-transactions-101-two-phase-commit/</guid>
+      <guid>http://localhost:1313/posts/distributed-transactions-101-two-phase-commit/</guid>
       <description>A beginner-friendly guide to transactions, focusing on the two-phase commit protocol for distributed systems.</description>
     </item>
     <item>
       <title>Industrial Automation 101: PLCs, MQTT, and Python in Action</title>
-      <link>https://prasad-firame.github.io/posts/industrial-automation-101-plcs-mqtt-and-python-in-action/</link>
+      <link>http://localhost:1313/posts/industrial-automation-101-plcs-mqtt-and-python-in-action/</link>
       <pubDate>Wed, 18 Feb 2026 12:49:15 +0530</pubDate>
-      <guid>https://prasad-firame.github.io/posts/industrial-automation-101-plcs-mqtt-and-python-in-action/</guid>
+      <guid>http://localhost:1313/posts/industrial-automation-101-plcs-mqtt-and-python-in-action/</guid>
       <description>A first-principles guide to integrating PLCs, MQTT, and Python for modern industrial automation systems.</description>
     </item>
     <item>
       <title>Networking: From Packets to Protocols</title>
-      <link>https://prasad-firame.github.io/posts/networking-from-packets-to-protocols/</link>
+      <link>http://localhost:1313/posts/networking-from-packets-to-protocols/</link>
       <pubDate>Wed, 18 Feb 2026 12:12:53 +0530</pubDate>
-      <guid>https://prasad-firame.github.io/posts/networking-from-packets-to-protocols/</guid>
+      <guid>http://localhost:1313/posts/networking-from-packets-to-protocols/</guid>
       <description>A first-principles guide to understanding computer networking from physical transmission to application protocols.</description>
     </item>
     <item>
       <title></title>
-      <link>https://prasad-firame.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://prasad-firame.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Experience</title>
-      <link>https://prasad-firame.github.io/experience/</link>
+      <link>http://localhost:1313/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://prasad-firame.github.io/experience/</guid>
+      <guid>http://localhost:1313/experience/</guid>
       <description>&lt;!-- Entire page in HTML --&gt;
 &lt;!-- Experience Timeline Page with logos inline --&gt;
 &lt;!DOCTYPE html&gt;
@@ -48,7 +48,7 @@
 &lt;head&gt;
   &lt;meta charset=&#34;UTF-8&#34;&gt;
   &lt;title&gt;Experience&lt;/title&gt;
-  &lt;link rel=&#34;stylesheet&#34; href=&#34;https://prasad-firame.github.io/css/custom.css&#34;&gt;
+  &lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/custom.css&#34;&gt;
   &lt;style&gt;
     body {
       font-family: &#39;Segoe UI&#39;, sans-serif;
