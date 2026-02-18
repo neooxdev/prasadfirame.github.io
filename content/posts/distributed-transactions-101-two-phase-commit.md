@@ -1,18 +1,16 @@
 +++
-title: "Distributed Transactions: Understanding Two-Phase Commit"
-date: 2026-02-18
-draft: false
-tags: ["transactions", "2PC", "databases", "consistency", "backend"]
-categories: ["Databases", "Backend"]
-description: "A beginner-friendly guide to transactions, focusing on the two-phase commit protocol for distributed systems."
-
+date = '2026-02-18T13:15:00+05:30'
+draft = false
+title = 'Distributed Transactions 101: Understanding Two-Phase Commit'
+description = "A beginner-friendly guide to transactions, focusing on the two-phase commit protocol for distributed systems."
 
 [cover]
-image = "https://images.unsplash.com/photo-1581091870627-3f89b4c5c9e5?auto=format&fit=crop&w=1600&q=80"
+image =  "https://images.unsplash.com/photo-1664526937033-fe2c11f1be25?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 alt = "Distributed systems network illustration"
 caption = "Distributed transactions and Two-Phase Commit"
 relative = false
 +++
+
 
 # Introduction
 

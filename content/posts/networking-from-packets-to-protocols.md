@@ -6,7 +6,7 @@ description = 'A first-principles guide to understanding computer networking fro
 tags = ['networking', 'tcp/ip', 'protocols', 'systems', 'internet']
 
 [cover]
-image = "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=1200&auto=format&fit=crop"
+image = "https://images.unsplash.com/photo-1546124404-9e7e3cac2ec1?q=80&w=1031&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 alt = "Global network infrastructure"
 caption = "Networking from first principles"
 relative = false

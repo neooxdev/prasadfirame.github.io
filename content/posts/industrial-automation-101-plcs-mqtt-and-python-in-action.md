@@ -4,7 +4,7 @@ draft = false
 title = 'Industrial Automation 101: PLCs, MQTT, and Python in Action'
 description = 'A first-principles guide to integrating PLCs, MQTT, and Python for modern industrial automation systems.'
 tags = ['plc', 'mqtt', 'python', 'industrial automation', 'iot']
-+++
+
 
 
 [cover]
@@ -13,7 +13,7 @@ alt = "Industrial automation factory control systems"
 caption = "Modern industrial automation systems"
 relative = false
 
----
++++
 
 ## Introduction
 
