@@ -39,25 +39,17 @@ theme = "PaperMod"
   url = "/tags/"
   weight = 20
 
-[[menu.main]]
-  name = "Experience"
-  url = "/experience/"
-  weight = 25
 
-[[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 30
 
 
 # Social links
 [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/neooxdev"
+  url = "https://github.com/prasad-firame"
 
 [[params.socialIcons]]
   name = "twitter"
-  url = "https://twitter.com/acexdev"
+  url = "https://twitter.com/rev-proxy"
 
 [[params.socialIcons]]
   name = "email"
