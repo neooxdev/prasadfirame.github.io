@@ -2,6 +2,7 @@ baseURL = "https://prasad-firame.github.io/"
 languageCode = "en-us"
 title = ""
 theme = "PaperMod"
+googleAnalytics = "G-DV30NSJSPZ"
 
 [params]
   env = "production"

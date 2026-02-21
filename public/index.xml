@@ -2,147 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Prasad&#39;s Space on </title>
-    <link>http://localhost:1313/</link>
+    <link>https://prasad-firame.github.io/</link>
     <description>Recent content in Prasad&#39;s Space on </description>
     <generator>Hugo -- 0.153.3</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Feb 2026 13:15:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://prasad-firame.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Distributed Transactions 101: Understanding Two-Phase Commit</title>
-      <link>http://localhost:1313/posts/distributed-transactions-101-two-phase-commit/</link>
+      <link>https://prasad-firame.github.io/posts/distributed-transactions-101-two-phase-commit/</link>
       <pubDate>Wed, 18 Feb 2026 13:15:00 +0530</pubDate>
-      <guid>http://localhost:1313/posts/distributed-transactions-101-two-phase-commit/</guid>
+      <guid>https://prasad-firame.github.io/posts/distributed-transactions-101-two-phase-commit/</guid>
       <description>A beginner-friendly guide to transactions, focusing on the two-phase commit protocol for distributed systems.</description>
     </item>
     <item>
       <title>Industrial Automation 101: PLCs, MQTT, and Python in Action</title>
-      <link>http://localhost:1313/posts/industrial-automation-101-plcs-mqtt-and-python-in-action/</link>
+      <link>https://prasad-firame.github.io/posts/industrial-automation-101-plcs-mqtt-and-python-in-action/</link>
       <pubDate>Wed, 18 Feb 2026 12:49:15 +0530</pubDate>
-      <guid>http://localhost:1313/posts/industrial-automation-101-plcs-mqtt-and-python-in-action/</guid>
+      <guid>https://prasad-firame.github.io/posts/industrial-automation-101-plcs-mqtt-and-python-in-action/</guid>
       <description>A first-principles guide to integrating PLCs, MQTT, and Python for modern industrial automation systems.</description>
     </item>
     <item>
       <title>Networking: From Packets to Protocols</title>
-      <link>http://localhost:1313/posts/networking-from-packets-to-protocols/</link>
+      <link>https://prasad-firame.github.io/posts/networking-from-packets-to-protocols/</link>
       <pubDate>Wed, 18 Feb 2026 12:12:53 +0530</pubDate>
-      <guid>http://localhost:1313/posts/networking-from-packets-to-protocols/</guid>
+      <guid>https://prasad-firame.github.io/posts/networking-from-packets-to-protocols/</guid>
       <description>A first-principles guide to understanding computer networking from physical transmission to application protocols.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
-      <description>&lt;!-- Entire page in HTML --&gt;
-&lt;!-- Experience Timeline Page with logos inline --&gt;
-&lt;!DOCTYPE html&gt;
-&lt;html lang=&#34;en&#34;&gt;
-&lt;head&gt;
-  &lt;meta charset=&#34;UTF-8&#34;&gt;
-  &lt;title&gt;Experience&lt;/title&gt;
-  &lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/custom.css&#34;&gt;
-  &lt;style&gt;
-    body {
-      font-family: &#39;Segoe UI&#39;, sans-serif;
-      background-color: #121212;
-      color: #eee;
-      margin: 0;
-      padding: 0;
-    }
-&lt;pre&gt;&lt;code&gt;.timeline-container {
-  max-width: 900px;
-  margin: 3rem auto;
-  padding: 0 1rem;
-  position: relative;
-}
-
-h1 {
-  text-align: center;
-  margin-bottom: 2rem;
-  font-size: 2rem;
-}
-
-/* Timeline items */
-.timeline-item {
-  position: relative;
-  width: 50%;
-  padding: 1rem 2rem;
-  box-sizing: border-box;
-  opacity: 0;
-  transform: translateY(50px);
-  transition: all 0.6s ease-out;
-}
-
-.timeline-item.left { left: 0; text-align: right; }
-.timeline-item.right { left: 50%; text-align: left; }
-
-/* Content styling */
-.timeline-content {
-  background-color: #1a1a1a;
-  padding: 0.8rem 1rem;
-  border-radius: 8px;
-  font-size: 0.9rem;
-  line-height: 1.4rem;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-  display: inline-block;
-  max-width: 350px;
-  position: relative;
-  z-index: 2;
-}
-
-/* Logo inline with title */
-.timeline-content h3 {
-  display: flex;
-  align-items: center;
-  gap: 0.6rem;
-  font-size: 1.1rem;
-  margin-bottom: 0.5rem;
-}
-
-.timeline-content h3 img {
-  width: 40px;
-  height: 40px;
-  object-fit: contain;
-  border-radius: 4px;
-  background-color: #111;
-  padding: 2px;
-}
-
-/* Segmented vertical line */
-.timeline-segment {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 3px;
-  background-color: #00ffcc;
-  top: 0;
-  z-index: 1;
-  transition: height 0.5s ease-out;
-}
-
-/* Scroll hint */
-.scroll-hint {
-  text-align: center;
-  margin-top: 2rem;
-  font-size: 1rem;
-  color: #00ffcc55;
-  animation: bounce 1.5s infinite;
-}
-
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(10px); }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;/style&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
